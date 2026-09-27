@@ -11,3 +11,8 @@ class Student
         Console.WriteLine("MSSV: " + StudentId);
     }
 }
+
+public void UpdateInfo()
+{
+    Console.WriteLine("Cap nhat thong tin sinh vien");
+}
